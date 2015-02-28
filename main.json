@@ -1,1 +1,1 @@
-{"name":"liustar","number_of_posts_per_page":7,"disqus_shortname":"","posts":[{"title":"创建博客","date":"2015.2.29","tags":"blog","path":"simple.html"}],"pages":[]}
+{"name":"liustar","number_of_posts_per_page":7,"disqus_shortname":"","posts":[{"title":"blog","date":"2015-02-28","tags":"blog","path":"intro.html"},{"title":"创建博客","date":"2015.2.29","tags":"blog","path":"simple.html","num":0,"type":"post","active":false}],"pages":[]}
